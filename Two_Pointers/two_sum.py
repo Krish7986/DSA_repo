@@ -14,7 +14,6 @@ There is exactly one solution
 
 
 '''
-
 class Solution:
     def two_pointers(self,nums,target):
         left,right = 0,len(nums)-1
